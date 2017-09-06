@@ -3,10 +3,10 @@
  * @Title:  RedisUtil.java   
  * @Package cn.bqjr.mysqleye.util   
  * @Description:    Redis工具类
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年3月13日 下午2:10:08   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.util;
 
@@ -15,10 +15,10 @@ import redis.clients.jedis.Jedis;
 /**
  * @ClassName: RedisUtil
  * @Description:Redis工具类
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date: 2017年3月13日 下午2:10:08
  * 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved.
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved.
  */
 public class RedisUtil
 {

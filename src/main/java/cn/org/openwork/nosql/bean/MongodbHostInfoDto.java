@@ -1,22 +1,22 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  MongodbHostInfoDto.java   
- * @Package cn.bqjr.dbeye.nosql.bean   
+ * @Package cn.org.openwork.nosql.bean   
  * @Description:    TODO 
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年7月11日 下午5:24:44   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.bean;
 
 /**
  * @ClassName: MongodbHostInfoDto
  * @Description:TODO
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date: 2017年7月11日 下午5:24:44
  * 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved.
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved.
  */
 public class MongodbHostInfoDto {
     private String osName;

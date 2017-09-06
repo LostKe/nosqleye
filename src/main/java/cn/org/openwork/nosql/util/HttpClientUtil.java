@@ -1,12 +1,12 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  HttpClientUtil.java   
  * @Package cn.bqjr.mysqleye.util   
  * @Description:    HttpClient工具类
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年3月9日 下午4:50:50   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.util;
 
@@ -23,10 +23,10 @@ import org.apache.http.util.EntityUtils;
 /**
  * @ClassName: HttpClientUtil
  * @Description:HttpClient工具类
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date: 2017年3月9日 下午4:50:50
  * 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved.
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved.
  */
 public class HttpClientUtil {
 	public static String get(String url){

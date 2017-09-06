@@ -1,12 +1,12 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  Md5Util.java   
  * @Package cn.bqjr.mysqleye.util   
  * @Description:    TODO 
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年3月22日 下午4:44:00   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.util;
 
@@ -16,10 +16,10 @@ import java.security.NoSuchAlgorithmException;
 /**
  * @ClassName: Md5Util
  * @Description:TODO
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date: 2017年3月22日 下午4:44:00
  * 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved.
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved.
  */
 public class Md5Util {
 	// 静态方法，便于作为工具类

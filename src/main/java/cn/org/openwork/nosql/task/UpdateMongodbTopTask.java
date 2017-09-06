@@ -1,12 +1,12 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  UpdateMongodbTopTask.java   
- * @Package cn.bqjr.dbeye.nosql.task   
+ * @Package cn.org.openwork.nosql.task   
  * @Description:    TODO 
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年7月10日 下午5:23:15   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.task;
 
@@ -37,10 +37,10 @@ import cn.org.openwork.nosql.util.MongodbUtil;
 /**   
  * @ClassName:  UpdateMongodbTopTask   
  * @Description:TODO
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date:   2017年7月10日 下午5:23:15   
  *     
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 @Component
 public class UpdateMongodbTopTask

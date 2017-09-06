@@ -7,7 +7,7 @@ import com.alibaba.druid.support.http.StatViewServlet;
 
 /**
  *
- * @author 李平(B00165484)
+ * @author 李平(360841519@qq.com)
  */
 @WebServlet(urlPatterns = { "/druid/*" }, initParams = { @WebInitParam(name = "loginUsername", value = "admin"), @WebInitParam(name = "loginPassword", value = "admin") })
 public class DruidStatViewServlet extends StatViewServlet {

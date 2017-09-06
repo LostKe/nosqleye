@@ -1,12 +1,12 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  LoginController.java   
- * @Package cn.bqjr.dbeye.nosql.controller   
+ * @Package cn.org.openwork.nosql.controller   
  * @Description:    登录Controller 
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年7月4日 下午5:26:08   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.controller;
 
@@ -22,10 +22,10 @@ import cn.org.openwork.nosql.service.LoginService;
 /**   
  * @ClassName:  LoginController   
  * @Description:登录Controller 
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date:   2017年7月4日 下午5:26:08   
  *     
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 @RestController
 @RequestMapping(value = "/api")

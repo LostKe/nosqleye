@@ -1,7 +1,7 @@
 /**  
  * All rights Reserved, Designed By www.mycat.io
  * @Title:  RedisStatusHistoryChartsDto.java   
- * @Package cn.bqjr.dbeye.nosql.bean   
+ * @Package cn.org.openwork.nosql.bean   
  * @Description:    redis历史状态数据（供图表使用）
  * @author: 李平(360841519@qq.com)    
  * @date:   2017年8月21日 上午11:28:17   

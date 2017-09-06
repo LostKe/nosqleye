@@ -1,22 +1,22 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  MongodbDbDto.java   
- * @Package cn.bqjr.dbeye.nosql.bean   
+ * @Package cn.org.openwork.nosql.bean   
  * @Description:    TODO 
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年7月7日 下午5:51:37   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.bean;
 
 /**
  * @ClassName: MongodbDbDto
  * @Description:TODO
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date: 2017年7月7日 下午5:51:37
  * 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved.
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved.
  */
 public class MongodbDbDto {
     private String db;

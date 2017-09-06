@@ -1,7 +1,7 @@
 /**  
  * All rights Reserved, Designed By www.mycat.io
  * @Title:  RedisServerStatus.java   
- * @Package cn.bqjr.dbeye.nosql.bean   
+ * @Package cn.org.openwork.nosql.bean   
  * @Description:    TODO 
  * @author: 李平(360841519@qq.com)    
  * @date:   2017年8月23日 上午9:04:26   

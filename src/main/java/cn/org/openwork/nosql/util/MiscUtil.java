@@ -1,12 +1,12 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  MiscUtil.java   
- * @Package cn.bqjr.dbeye.nosql.util   
+ * @Package cn.org.openwork.nosql.util   
  * @Description:    常用工具类 
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年7月21日 下午2:53:20   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.util;
 
@@ -22,10 +22,10 @@ import org.slf4j.LoggerFactory;
 /**   
  * @ClassName:  MiscUtil   
  * @Description:常用工具类
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date:   2017年7月21日 下午2:53:20   
  *     
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 public class MiscUtil
 {

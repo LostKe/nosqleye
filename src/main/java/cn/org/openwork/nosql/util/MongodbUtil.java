@@ -1,12 +1,12 @@
 /**  
- * All rights Reserved, Designed By www.bqjr.cn
+ * All rights Reserved, Designed By www.openwork.org.cn
  * @Title:  MongoDBUtil.java   
- * @Package cn.bqjr.dbeye.nosql.util   
+ * @Package cn.org.openwork.nosql.util   
  * @Description:    mongodb工具类
- * @author: 李平(B00165484)    
+ * @author: 李平(360841519@qq.com)    
  * @date:   2017年7月7日 上午9:28:28   
  * @version V1.0 
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 package cn.org.openwork.nosql.util;
 
@@ -27,10 +27,10 @@ import cn.org.openwork.nosql.bean.MongodbServer;
 /**   
  * @ClassName:  MongoDBUtil   
  * @Description:mongodb工具类
- * @author: 李平(B00165484)
+ * @author: 李平(360841519@qq.com)
  * @date:   2017年7月7日 上午9:28:28   
  *     
- * @Copyright: 2017 www.bqjr.cn Inc. All rights reserved. 
+ * @Copyright: 2017 www.openwork.org.cn Inc. All rights reserved. 
  */
 public class MongodbUtil
 {
