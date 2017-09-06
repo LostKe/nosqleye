@@ -1,4 +1,4 @@
-# nosqleye
+# NOSQL EYE
 nosql数据库监控工具，目前实现了对Redis、MongoDB的监控功能。
 
 演示地址：http://106.14.181.95:7004
