@@ -23,21 +23,21 @@ http://106.14.181.95:7004
 ## 该项目使用的技术：
 
 ### 前端：
-bootstrap3
-jquery1.11
-ECharts3
-vis
+* bootstrap3
+* jquery1.11
+* ECharts3
+* vis
 
 ### 后端：
-springboot 1.5.4
-druid1.0
-mybatis3.4
-ehcache2.10
-fastjson1.2
-logback1.1
+* springboot 1.5.4
+* druid1.0
+* mybatis3.4
+* ehcache2.10
+* fastjson1.2
+* logback1.1
 
 ### 数据库：
-MySQL5.7
+* MySQL5.7
 
 
 ## 联系：
