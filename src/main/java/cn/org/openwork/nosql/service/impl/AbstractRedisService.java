@@ -111,7 +111,6 @@ public class AbstractRedisService
     {
         boolean isConn = false;
         String ping = getRedisStatus(host, port, password);
-        //如果ping通，返回true，如果ping不通，则每隔1秒尝试一次重连，如果3次重连失败，则认为连接失败
         if (ping.equals("PONG"))
         {
             isConn = true;
